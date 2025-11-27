@@ -103,9 +103,9 @@
 \makeatletter
 \renewcommand{\maketitle}{
     \begin{center}
-        \noindent\begin{tabular}{p{2cm}p{11.2cm}p{2cm}}
+        \noindent\begin{tabular}{p{2cm}p{11cm}p{2cm}}
       \parbox{2cm}{ \includegraphics[width=2cm]{\@projectLogo} } 
-    & \parbox{11.2cm}{\centering \textbf{\Huge\@acronym \\\vspace*{2mm} \LARGE{\@title} } } & \parbox{2cm}{\includegraphics[width=2cm]{images/ZPI-Day-cmyk.pdf}}
+    & \parbox{11cm}{\centering \textbf{\Huge\@acronym \\\vspace*{2mm} \LARGE{\@title} } } & \parbox{2cm}{\includegraphics[width=2cm]{images/ZPI-Day-cmyk.pdf}}
         \end{tabular}       
     \end{center} 
     \hrule 
