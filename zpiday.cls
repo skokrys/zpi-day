@@ -123,7 +123,7 @@
 }
 
 \newcommand{\TheMembers}{%
-    \iflanguage{polish}{Autorzy}{Autors}%
+    \iflanguage{polish}{Autorzy}{Authors}%
 }
 
 \newcommand{\TheDescription}{%
